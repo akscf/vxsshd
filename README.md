@@ -1,6 +1,6 @@
 Small and portable SSH server for VxWorks 5.x <br>
 
-Please atention on one importan thing: <br>
+<b>Please atention on one importan thing:</b> <br>
  The server uses (by default) vxworks prnd functions. <br>
  And if you are planning to use this server in your project, would be a good idea to replace these functions on more safety (emssh_crypto_rnd.c). <br>
 

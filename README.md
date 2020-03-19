@@ -6,8 +6,8 @@ NOTICE: <br>
 
 
 Generate the server key: <br>
-# openssl genpkey -algorithm RSA -out srv_key.pem -pkeyopt rsa_keygen_bits:1024 <br>
-# openssl rsa -in srv_key.pem -out srv_key_new.key <br>
+$ openssl genpkey -algorithm RSA -out srv_key.pem -pkeyopt rsa_keygen_bits:1024 <br>
+$ openssl rsa -in srv_key.pem -out srv_key_new.key <br>
 
 
 <b>Version 2.0.1:</b> [emsshd2-arm7-be.elf 19/03/2020](builds/emsshd2-arm7-be.elf) <br> 
@@ -17,7 +17,7 @@ Generate the server key: <br>
  - kex    : curve25519-sha256 <br>
 
 
-<b>Roadmap:</b> <br>
+<b>Roadmap:</b><br>
  - describe the API and write manuals <br>
  - add authorization by publickey <br>
  - add chach20-poly1305 <br>

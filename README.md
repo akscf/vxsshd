@@ -25,11 +25,6 @@ $ openssl rsa -in srv_key.pem -out srv_key_new.key <br>
  - add comepression (?) <br>
  - your ideas ? <br>
 
-
-<b>Supports this project:</b> <br>
- If you want to support this project, you can do it via donates ;) <br>
-
-
 --------------------------------------------------------------------------- <br>
 Useful docs:<br>
 

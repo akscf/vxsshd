@@ -247,7 +247,7 @@ static void recip(unsigned int out[32],const unsigned int z[32])
 /**
  *
  **/
-int em_ssh_scalarmult_curve25519(unsigned char *q, const unsigned char *n, const unsigned char *p) {
+int vxssh_scalarmult_curve25519(unsigned char *q, const unsigned char *n, const unsigned char *p) {
   unsigned int work[96];
   unsigned char e[32];
   unsigned int i;

@@ -1,4 +1,4 @@
-<p align="center">This is a small and portable ssh server for VxWorks 5.x<br></p>
+This is a small and portable ssh server for VxWorks 5.x<br>
 <br>
 Features list:<br>
 <b>Version 2.0.x</b> supports the following:<br> 
@@ -6,7 +6,7 @@ Features list:<br>
  - ciphers : AES (128/192/256) CBC/CTR<br>
  - macs    : MD5, SHA1, SHA256<br>
  - kex     : curve25519-sha256<br>
-<br><br>
+<br>
 ------------------------------------------------------------------------<br>
 History of changes:<br>
 <b>10.01.2021</b><br>

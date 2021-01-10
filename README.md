@@ -1,32 +1,36 @@
 <p>
  This is a small and portable ssh server for VxWorks 5.x
 </p>
+<br>
 <p>
- Features list:
+ Features list:<br>
  <ul>
-  <li><b>Version 2.0.x</b> supports the following:
-   <ul>
-    <li>keys    : RSA</li>
-    <li>ciphers : AES (128/192/256) CBC/CTR</li>
-    <li>macs    : MD5, SHA1, SHA256</li>
-    <li>kex     : curve25519-sha256</li>
-   </ul>
-  </li>
+   <li><b>Version 2.0.x</b> supports the following:
+    <ul>    
+     <li>keys: RSA</li>
+     <li>ciphers: AES (128/192/256) CBC/CTR</li>
+     <li>macs: MD5, SHA1, SHA256</li>
+     <li>kex: curve25519-sha256</li>
+    </ul>
+   </li>
+ </ul>  
 </p>
+<br>
 <p>History of changes:
 <ul>
  <li><b>10.01.2021</b>
   <ul>
     <li>fixed some bugs</li>
     <li>added tests</li>
-    <li>added chaha, poly1305 algorithms (but not used yet)</li>
+    <li> added chaha, poly1305 algorithms (but not used yet)</li>
   </ul>
  </li>
-<li><b>14.10.2020</b>
- <ul>
-  <li>initial version</li>
- </ul>
-</li>
+ <li><b>14.10.2020</b>
+  <ul>
+   <li>initial version</li>
+  </ul>
+ </li>
+</ul>
 </p>
 
 <p>

@@ -3,7 +3,6 @@
 </p>
 
 ## Features list (ver 2.0)
-Fetaures list (ver 2.0x):
  - keys algorithms: RSA
  - ciphers: AES (128/192/256) CBC/CTR
  - macs: MD5, SHA1, SHA256

@@ -9,7 +9,7 @@ The inicial project was written about 5 years ago (maybe more) and it was a simp
    (recently I've added poly1305/ChaCha but I've not uesed it yet, lack of time...) <br>
    <br>
    <mark>And finally, I'd like to pay attention to the following: </mark> <br>
-   If you are going to use it in your projects, please have a look at an rekening algorithm more thoroughly (seems to me it can be buggy ;). <br>
+   If you are going to use it in your projects, please have a look at an rekening logic more thoroughly (seems to me it can be buggy ;). <br>
    And rewrite or use a hardware implementation of random number generator [vxssh_crypto_rnd.c] (by default it uses a libc rand function) <br>
   </p>
 

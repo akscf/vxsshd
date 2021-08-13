@@ -1,3 +1,4 @@
+<p>
 The inicial project was written about 5 years ago (maybe more) and it was a simple tcp rpc server with couple of cryptographic methods for protect communications. 
    There was a task to control several thousand devices under vxworks5 but the existing firmware didn't contain necessary services
    (of course, there were telnet and snmp there but it wasn't enough we needed to call special functions and did additional actions...no matter it's a long story). <br>
